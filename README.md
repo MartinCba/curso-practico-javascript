@@ -2,7 +2,10 @@
 Proyecto para el Curso Práctico de JavaScript de Platzi
 
 ## Link en Pages
-Live: 
+<<<<<<< HEAD
+Live:
+=======
+
 
 ### Conceptos vistos en el curso
 - Manipulación del DOM
