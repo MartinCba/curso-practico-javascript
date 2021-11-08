@@ -1,10 +1,10 @@
-# platzi-curso-practico-javascript
+# Platzi-curso-practico-javascript
 Proyecto para el Curso Práctico de JavaScript de Platzi
 
 ## Link en Pages
-<<<<<<< HEAD
-Live:
-=======
+
+###### Live: https://martincba.github.io/curso-practico-javascript/index.html
+
 
 
 ### Conceptos vistos en el curso

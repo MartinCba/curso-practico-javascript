@@ -212,3 +212,4 @@ function renderMedianaTop10() {
     resultH4.innerHTML = `La Mediana Salarial Top 10% es: <strong class="unit"> ${r}</strong>`;
   }
 }
+ 
