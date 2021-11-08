@@ -17,4 +17,4 @@ Proyecto para el Curso Práctico de JavaScript de Platzi
 ### Cursos relacionados en Platzi
 - Curso de Frontend - @teffcode
 - Curso Básico de JavaScript - @degranda10
-- Curso Práctico de JavaScript - @juandc
+- Curso Práctico de JavaScript - @juandc 

@@ -331,4 +331,3 @@ function renderResultTriangles(r, calc) {
 
   resultH4.innerHTML = `El <strong>${calc}</strong> del <strong>triangulo</strong> es: <strong class="unit"> ${r} ${unit}</strong>`;
 }
- 

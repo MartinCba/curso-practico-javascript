@@ -266,4 +266,3 @@ function renderMediana() {
     resultH4.innerHTML = `La Mediana es: <strong class="unit"> ${r}</strong>`;
   }
 }
- 

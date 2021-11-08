@@ -1,10 +1,10 @@
 const colombia = [];
 colombia.push({
-  name: "Laura",
+  name: "Florencia",
   salary: 500,
 });
 colombia.push({
-  name: "Sofía",
+  name: "Agustina",
   salary: 1500,
 });
 colombia.push({
@@ -79,4 +79,3 @@ colombia.push({
   name: "Bill Gates",
   salary: 100000000,
 });
- 
