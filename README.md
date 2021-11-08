@@ -1,17 +1,17 @@
-## Taller #1: Figuras geométricas
-- Primer paso: Definir las fórmulas.
-- Segundo paso: Implementar las fórmulas de JavaScript.
-- Tercer paso: Crear funciones.
-- Cuarto paso: Integrar JS con Html.
+# platzi-curso-practico-javascript
+Proyecto para el Curso Práctico de JavaScript de Platzi
 
-## Taller #2: Porcentajes y descuentos
-- Primer paso: Definir las fórmulas.
-- Segundo paso: Implementar las fórmulas de JavaScript.
-- Tercer paso: Crear funciones.
-- Cuarto paso: Integrar JS con Html.
+## Link en Pages
+Live: https://lucasfrezzini.github.io/platzi-curso-practico-javascript/index.html
 
-## Taller #3: Promedio, mediana y moda
-- Primer paso: Definir las fórmulas.
-- Segundo paso: Implementar las fórmulas de JavaScript.
-- Tercer paso: Crear funciones.
-- Cuarto paso: Integrar JS con Html.
+### Conceptos vistos en el curso
+- Manipulación del DOM
+- Manipulación de Array
+- Functions
+- HTML y CSS
+- Animaciones y transiciones
+
+### Cursos relacionados en Platzi
+- Curso de Frontend - @teffcode
+- Curso Básico de JavaScript - @degranda10
+- Curso Práctico de JavaScript - @juandc
